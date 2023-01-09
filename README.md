@@ -1,3 +1,4 @@
 # plotting-Desktop-App
-I used lumpy and Pyside2
-<img align="right" alt="Coding" width="400"src="https://lucid.app/documents/embedded/da421729-eea0-4cbf-b6c1-4a3664e51fed" id="61km7SiW~r25">
+I started with the input unite where you ask the user to enter the input-function.
+then after the function is entered the validation comes in place, once the error catch anything the error handler class will take place to pop up the message and re ask the user to input another function.
+<img src="/UML/Blank diagram.png">
