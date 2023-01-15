@@ -10,16 +10,18 @@ a new window will appear in the screen with the tool bar to track the plotted fu
 you need to know the plotting assitance is fixed in the size and will alwys show in the cneter of your screen
 the other window-plotting area. will appear in case you entered the correct format of the eqution 
 ## testing
-I tested the GUI of the application with the unit test file found here 
-<a ref="/test_app.py">
+I tested the GUI of the application with the unit test file found in test_app.py
+
 ## The App
+
 <img src="/Pic/img1.png">
 <img src="/Pic/img2.png">
-##Error in the input function
 <img src="/Pic/img3.png">
+
+## Error in the input function
+
 <img src="/Pic/img4.png">
-#Error in the min and max value 
 <img src="/Pic/img5.png">
-<img src="/Pic/img6.png">
-you can find the application in 
-[App]("/proc.py")
+
+you can find the application in proc.py
+
