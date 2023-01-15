@@ -21,4 +21,4 @@ I tested the GUI of the application with the unit test file found here
 #Error in the min and max value 
 <img src="/Pic/img5.png">
 <img src="/Pic/img6.png">
-you can find the application in <a ref="proc.py">
+you can find the application in <a src="proc.py">
