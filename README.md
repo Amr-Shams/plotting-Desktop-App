@@ -11,7 +11,7 @@ you need to know the plotting assitance is fixed in the size and will alwys show
 the other window-plotting area. will appear in case you entered the correct format of the eqution 
 ## testing
 I tested the GUI of the application with the unit test file found here 
-<a src="test_app.py">
+<a ref="/test_app.py">
 ## The App
 <img src="/Pic/img1.png">
 <img src="/Pic/img2.png">
@@ -21,4 +21,5 @@ I tested the GUI of the application with the unit test file found here
 #Error in the min and max value 
 <img src="/Pic/img5.png">
 <img src="/Pic/img6.png">
-you can find the application in <a src="proc.py">
+you can find the application in 
+[App]("/proc.py")
